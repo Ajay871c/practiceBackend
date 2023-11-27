@@ -2,9 +2,16 @@
   "name": "project_backend",
   "version": "1.0.0",
   "description": "a practive project from youtube.",
+  "type": "module",
   "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
   "repository": "https://github.com/Ajay871c/practiceBackend.git",
   "author": "Ajay kumar",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
 }
