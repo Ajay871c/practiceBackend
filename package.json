@@ -1,0 +1,10 @@
+{
+  "name": "project_backend",
+  "version": "1.0.0",
+  "description": "a practive project from youtube.",
+  "main": "index.js",
+  "repository": "https://github.com/Ajay871c/practiceBackend.git",
+  "author": "Ajay kumar",
+  "license": "MIT",
+  "private": false
+}
